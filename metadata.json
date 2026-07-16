@@ -1,0 +1,10 @@
+{
+  "name": "RuralMind AI",
+  "description": "RuralMind AI is an Intelligent Village Development & Public Service Platform designed for smart rural governance. It provides AI-powered complaint classification, priority prediction, automatic routing, duplicate detection, and intelligent government scheme recommendations for citizens and officers.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
